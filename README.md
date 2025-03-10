@@ -9,7 +9,7 @@
 <div style="text-align: center;">
 <h3 align="center">📚 Studying 📚</h3>
  <br> 
-    <div style="margin: ; text-align: center;" "text-align: center;"> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
+    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
@@ -17,6 +17,7 @@
           <br/><img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white">
           </div>
     </div>
+    
     
 <br>
 
