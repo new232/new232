@@ -1,7 +1,11 @@
-<div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&text=Hello%20My%20World&animation=fadeIn&fontColor=000000&fontSize=70" />
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 자기소개 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 자기소개 내용 </div> 
+    </div>
+    
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
