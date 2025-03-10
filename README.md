@@ -26,10 +26,8 @@
  <div align= "center"> <a href="https://www.instagram.com/zi_hoo_ni/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=zi_hoo_ni/"> </a>
          <a href=mailto:wjdwlgns4512@gmail.com> <img src="https://img.shields.io/badge/wjdwlgns4512@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
           </div>  <br> 
-    <div align= "center"> 
-            [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=new232&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
  </div>
-    </div>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=new232&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
