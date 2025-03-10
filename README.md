@@ -29,7 +29,7 @@
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=new232&layout=compact&bg_color=180,9094b2,00000000&title_color=ffffff&text_color=ffffff"
            /> </div>
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact)](https://github.com/delay-100/github-readme-stats) <!-- Github Status --> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delay-100&show_icons=true&theme=dracula)
+        <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnew232%2Fnew232%2Fedit%2Fmain%2FREADME.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
     </div>
 
 
