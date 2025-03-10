@@ -27,9 +27,8 @@
          <a href=mailto:wjdwlgns4512@gmail.com> <img src="https://img.shields.io/badge/wjdwlgns4512@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
           </div>  <br> 
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=new232&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-           /> </div>
+            [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=new232&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ </div>
     </div>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=new232&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
