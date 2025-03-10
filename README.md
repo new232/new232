@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&text=Hello%20My%20World&animation=fadeIn&fontColor=000000&fontSize=70" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 자기소개 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 꿈을 찾아 떠나는 배를 타고 앞으로 가고 있는 사람입니당 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 자기소개 내용 </div> 
     </div>
     
