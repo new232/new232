@@ -26,7 +26,7 @@
  <div align= "center"> <a href=https://www.instagram.com/zi_hoo_ni/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=zi_hoo_ni/"> </a>
          <a href=mailto:wjdwlgns4512@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:wjdwlgns4512@gmail.com"> </a>
           </div>  <br> 
-    <div align= "center">  </div> 
+    <div align= "center"> <img src="https://camo.githubusercontent.com/b14de918fe4fa791677fbcbdd8d9eaec450370b8df830d8746b3f94da6bb5078/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d7472616e73706172656e74"> </div> 
     </div>
 
     
