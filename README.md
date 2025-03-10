@@ -34,7 +34,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
- <div align= "center"> <a href=zi_hoo_ni> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/zi_hoo_ni/"> </a>
+ <div align= "center"> <a href=zi_hoo_ni> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=zi_hoo_ni/"> </a>
          <a href=mailto:wjdwlgns4512@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:wjdwlgns4512@gmail.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
