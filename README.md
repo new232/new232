@@ -24,7 +24,7 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
  <div align= "center"> <a href=https://www.instagram.com/zi_hoo_ni/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=zi_hoo_ni/"> </a>
-         <a href=mailto:wjdwlgns4512@gmail.com> <img src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+         <a href=mailto:wjdwlgns4512@gmail.com> <img src="https://img.shields.io/badge/wjdwlgns4512@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
           </div>  <br> 
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=new232&layout=compact&bg_color=180,9094b2,00000000&title_color=ffffff&text_color=ffffff"
