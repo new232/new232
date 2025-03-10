@@ -6,7 +6,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 자기소개 내용 </div> 
     </div>
     
-<div style="text-align: left;">
+<div style="text-align: center;">
 <h3 align="center">📚 Studying 📚</h3>
  <br> 
     <div style="margin: ; text-align: center;" "text-align: center;"> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
