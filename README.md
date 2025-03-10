@@ -24,12 +24,11 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
  <div align= "center"> <a href=https://www.instagram.com/zi_hoo_ni/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=zi_hoo_ni/"> </a>
-         <a href=mailto:wjdwlgns4512@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:wjdwlgns4512@gmail.com"> </a>
+         <a href=mailto:wjdwlgns4512@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white> </a>
           </div>  <br> 
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=new232&layout=compact&bg_color=180,9094b2,00000000&title_color=ffffff&text_color=ffffff"
            /> </div>
-        <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnew232%2Fnew232%2Fedit%2Fmain%2FREADME.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
     </div>
 
 
